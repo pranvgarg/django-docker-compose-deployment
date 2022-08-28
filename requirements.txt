@@ -1,0 +1,3 @@
+Django >=3.2.3,<3.3
+psycopg2>=2.8.6,<2.9  #django will use to connect to postgre db
+uWSGI>=2.0.19.1,<2.1
